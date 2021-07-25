@@ -46,7 +46,8 @@ class Home extends StatelessWidget {
           ]),
         ]
         ),
-        SizedBox(height: 20),
+        SizedBox(height: 10),
+        
         Row(
         children: <Widget> [
           Container(
