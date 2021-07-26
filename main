@@ -72,5 +72,3 @@ class Home extends StatelessWidget {
     );
   }
 }
-
-
